@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="forest_fire.jpg" alt="Project Banner" width="100%">
+  <img src="fire.jpg" alt="Project Banner" width="100%">
 </p>
 
 ---
