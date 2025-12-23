@@ -1,11 +1,13 @@
 # 🔥 Algerian Forest Fire Prediction — Machine Learning Project  
 
 ![Forest Fire Prediction](https://img.shields.io/badge/Forest%20Fire-Prediction-green?style=for-the-badge&logo=python&logoColor=white)
-
+![Data Science](https://img.shields.io/badge/Data%20Science-EDA%20%7C%20ML%20%7C%20Visualization-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 ---
 
 <p align="center">
-  <img src="fire.jpg" alt="Project Banner" width="100%">
+  <img src="cover_imagee.png" alt="Project Banner" width="100%">
 </p>
 
 ---
